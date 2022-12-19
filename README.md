@@ -1,4 +1,4 @@
-# ECG-analysis_HRA
+# Heart_failure_Prediction_HRA
 
 This repo was created to share files of the final assignment of the Harvardx: PH125.9x: Data Science_ Capstone module.
 
